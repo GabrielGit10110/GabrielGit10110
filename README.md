@@ -8,7 +8,7 @@ Sou um amante da tecnologia e estou sempre procurando evoluir na programação, 
 ## GitHub Stats💫
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biel314&show_icons=true&theme=dracula">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGit10110&show_icons=true&theme=dracula">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGit10110&show_icons=true&theme=dracula&layout=compact">
 </div>
 
