@@ -1,9 +1,9 @@
-# 👋Olá, me chamo Gabriel Oliveira!
+# 👋 Hello, my name is Gabriel Oliveira!
 
-Sou um amante da tecnologia e estou sempre procurando evoluir na programação, uma área que tenho interesse e valorizo! <br>
+I am a technology enthusiast and I am always looking to evolve in programming, an area I am interested in and value! <br>
 
 <br>
-💻Cursando Análise e Desenvolvimento de Sistemas - FATEC Zona Leste - 3/6
+💻 Studying Systems Analysis and Development - FATEC Zona Leste - 3/6
 
 ## GitHub Stats💫
 
