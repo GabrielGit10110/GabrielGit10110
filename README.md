@@ -6,7 +6,7 @@ I am a technology enthusiast and I am always looking to evolve in programming, a
 💻 Studying Systems Analysis and Development - FATEC Zona Leste - 3/6
 
 ## GitHub Stats💫
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGit10110)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGit10110&show_icons=true&theme=dracula">
