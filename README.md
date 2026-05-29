@@ -3,7 +3,7 @@
 I am a technology enthusiast and I am always looking to evolve in programming, an area I am interested in and value! <br>
 
 <br>
-💻 Studying Systems Analysis and Development - FATEC Zona Leste - 3/6
+💻 Studying Systems Analysis and Development - FATEC Zona Leste - 4/6
 
 ## GitHub Stats💫
 
